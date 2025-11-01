@@ -20,7 +20,7 @@ A sleek and professional stopwatch web application built with HTML, CSS, and Jav
 
 1. Clone the repository:
    
-   git clone 
+   git clone https://github.com/Chandan3466/SCT_WD_02.git
    
 2. Navigate to the project directory:
    
